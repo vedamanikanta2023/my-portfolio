@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { Mail, Phone, Github, Linkedin } from "lucide-react";
 
 export default function App() {
+  let b="1";
   return (
     <div className="font-sans text-gray-900 bg-gradient-to-br from-pink-100 via-white to-blue-100">
       {/* Hero Section */}
